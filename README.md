@@ -12,3 +12,11 @@ Realizado o Push da Image para o meu endereço Public View do docker Hub disponi
 https://hub.docker.com/repository/docker/msilvaops/ubuntu-curl
 
 Conclusão: Sempre que precisar utilizar a image qualquer pessoa pode fazer o docker Pull da imagem para trabalhar basta o repositório estar no modo Public View.
+
+Segunda parte do projeto criação de uma image docker com os arquivos Node.js 
+
+URL da API da aplicação em Node.js criada com a image docker e realizado o deploy na nuvem publica App Azure.
+
+https://api-msilvaopsapiconversaov1.azurewebsites.net/api-docs/
+
+Referencia do projeto KubeDev criador da aplicação API-CONVERSAO Node.js
