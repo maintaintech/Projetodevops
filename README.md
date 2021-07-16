@@ -19,7 +19,7 @@ https://hub.docker.com/repository/docker/msilvaops/ubuntu-curl
 
 - Criação de uma image docker com os arquivos Node.js com a API da aplicação após realizar a construção de um Dockerfile.
 
-Após a criação da image docker foi feito o Push para o Docker Hub onde foi adicionada no repositório Public View para realizado o Deploy do Container na nuvem pública do Azure utilizando o serviço App Service que é um serviço de aplicativos onde permitem que você crie, implante e dimensione rapidamente aplicativos da Web, móveis e API de nível empresarial executados em qualquer plataforma. Atenda aos requisitos rigorosos de desempenho, escalabilidade, segurança e conformidade ao usar uma plataforma totalmente gerenciada para realizar a manutenção da infraestrutura.
+Após a criação da image docker foi feito o Push para o Docker Hub onde foi adicionada no repositório Public View para ser realizado o Deploy do Container na nuvem pública do Azure utilizando o serviço App Service que é um serviço de aplicativos onde permitem que você crie, implante e dimensione rapidamente aplicativos da Web, móveis e API de nível empresarial executados em qualquer plataforma. Atenda aos requisitos rigorosos de desempenho, escalabilidade, segurança e conformidade ao usar uma plataforma totalmente gerenciada para realizar a manutenção da infraestrutura.
 
 https://api-msilvaopsapiconversaov1.azurewebsites.net/api-docs/
 
