@@ -1,4 +1,4 @@
-#### Projetodevops
+# Projetodevops
 
 Trabalhando com a Ferramenta Docker. Logado no Docker Hub | Realizando a Criação de uma imagem Docker, construída com o arquivo Dockerfile.
 
@@ -15,7 +15,7 @@ https://hub.docker.com/repository/docker/msilvaops/ubuntu-curl
 
 - Conclusão: Sempre que precisar utilizar a image qualquer pessoa pode fazer o docker Pull da imagem para trabalhar basta o repositório estar no modo Public View.
 
-#### Segunda parte do projeto construção e Deploy da aplicação para rodar em um Container Docker na Cloud. 
+# Segunda parte do projeto construção e Deploy da aplicação para rodar em um Container Docker na Cloud. 
 
 - Criação de uma image docker com os arquivos Node.js com a API da aplicação após realizar a construção de um Dockerfile.
 
